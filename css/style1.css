@@ -9,7 +9,7 @@
  border-right:.5em solid #00b89f;
  white-space:nowrap;
  margin:0 auto 1.5em;
- animation:typing 5s steps(82,end),blink-caret .75s linear 5.1s infinite;
+ animation: typing 5s steps(82, end) 0s infinite, blink-caret 0.75s linear 5.1s infinite;
  margin-top:0;
  margin-bottom:1.5em;
  text-align:center;
