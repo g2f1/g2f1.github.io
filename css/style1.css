@@ -20,6 +20,23 @@
  margin:0 auto 1.5em;
  animation:typing 5s steps(82,end),blink-caret .75s linear 5.1s infinite 
 }
+@keyframes typing {
+ from {
+  max-width:0
+ }
+ to {
+  max-width:100%
+ }
+}
+@keyframes blink-caret {
+ from,
+ to {
+  border-color:transparent
+ }
+ 50% {
+  border-color:#00b89f
+ }
+}
 :root {
  --gap:24px;
  --content-gap:20px;
