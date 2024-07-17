@@ -4,6 +4,10 @@
   Copyright (c) 2020 nanxiaobei and adityatelange
   Copyright (c) 2021-2024 adityatelange
 */
+.menu{
+font-weight: bold;
+text-decoration: underline;
+}
 .soc:hover{
 -ms-transform: scale(1.2); /* IE 9 */
 -webkit-transform: scale(1.2); /* Safari 3-8 */
