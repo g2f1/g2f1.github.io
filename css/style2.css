@@ -1385,7 +1385,8 @@ a.footnote-ref:hover {
 }
 @media(min-width:800px) {
  .site-main {
-  margin-top:3em
+  margin-top: 5em;
+  margin-bottom: 3em;
  }
  hr.post-end {
   width:40%
@@ -1393,12 +1394,14 @@ a.footnote-ref:hover {
 }
 @media(min-width:960px) {
  .site-main {
-  margin-top:6em
+  margin-top: 5em;
+  margin-bottom: 3em;
  }
 }
 @media(min-width:1300px) {
  .site-main {
-  margin-top:8em
+ margin-top: 5em;
+ margin-bottom: 3em;
  }
  .desktop-only,
  #toc.show-toc {
