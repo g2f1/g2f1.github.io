@@ -1399,8 +1399,8 @@ a.footnote-ref:hover {
 }
 @media(min-width:1300px) {
  .site-main {
- margin-top: 5em;
- margin-bottom: 3em;
+ margin-top: 3.5em;
+ margin-bottom: 5em;
  }
  .desktop-only,
  #toc.show-toc {
