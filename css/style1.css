@@ -928,10 +928,11 @@ img.in-text {
 }
 .terms-tags a {
  display:block;
- padding:3px 10px;
+ padding:10px 40px;
  background:var(--tertiary);
  border-radius:6px;
- transition:transform .1s
+ transition:transform .1s;
+ font-family:monospace
 }
 .terms-tags a:active {
  background:var(--tertiary);
